@@ -1,0 +1,52 @@
+
+title = "I'm Elizabeth Teas"
+author = "Elizabeth Teas"
+#copyright = "2021"
+description = "I like to run"
+profilePicture = "images/profile-mustache.jpg"
+keywords = ""
+favicon = "favicons/"
+
+# example ["css/custom.css"]
+customCss = []
+# example ["js/custom.js"]
+customJs = [] 
+
+mainSections = [""]
+images = ["images/site-feature-image.png"]
+doNotLoadAnimations = false
+
+singleDateFormat = "2/1/2006"
+indexDateFormat = "2/1/2006"
+listDateFormat = "2/1/2006"
+
+# Read More links for truncated summaries
+# readMore = true
+# postSectionName = "blog"
+
+## Math settings
+[math]
+enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/esohns"
+
+#[[socialIcons]]
+#icon = "fab fa-github"
+#title = "GitHub"
+#url = "https://github.com/lxndrblz/anatole/"
+
+[[socialIcons]]
+icon = "fab fa-instagram"
+title = "instagram"
+url = "https://www.instagram.com/esohns/"
+
+[[socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:???@example.com"
