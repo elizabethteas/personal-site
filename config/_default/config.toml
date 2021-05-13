@@ -4,7 +4,6 @@ DefaultContentLanguage = "en"
 
 title = "This Is Me"
 #title = "Website of Elizabeth Teas"
-theme = "anatole"
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
