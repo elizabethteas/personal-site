@@ -1,5 +1,9 @@
 # About This Site
 
+Status of latest changes: 
+
+![site build status](https://github.com/elizabethteas/personal-site/actions/workflows/site-deploy.yml/badge.svg)
+
 ## How it works
 This site is built on a few technologies
 - [Hugo](https://gohugo.io/)
