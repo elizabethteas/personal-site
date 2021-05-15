@@ -1,9 +1,6 @@
 +++
 title = "About"
-description = "About me, Elizabeth Sohns!"
 date = "2021-05-12"
-#aliases = ["about-me"]
-author = "Elizabeth Sohns"
 +++
 
 PhD. Runner. Cat lady.

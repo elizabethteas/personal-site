@@ -1,5 +1,4 @@
 +++
-author = "Elizabeth Sohns"
 title = "Coming Soon!"
 date = "2021-05-12"
 +++

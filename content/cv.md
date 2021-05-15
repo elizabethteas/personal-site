@@ -1,8 +1,7 @@
 ---
-date: 2021-05-12
 title: "CV"
-type: section
-layout: "doc"
+date: 2021-05-12
+
 type: "doc"
 doc: "Elizabeth Teas CV.pdf"
 ---
