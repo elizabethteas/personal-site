@@ -32,8 +32,6 @@ customCss = []
 # example ["js/custom.js"]
 customJs = [] 
 
-mainSections = [""]
-images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 
 singleDateFormat = "2/1/2006"
