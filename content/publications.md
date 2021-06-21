@@ -8,5 +8,5 @@ Most publications are hyperlinked to an open access version of the article or wi
 PUBLICATIONS AND IN PRESS PAPERS
 *First and second authors contributed equally.
 
-[Ward, R.M., Steers, M-L.N., Guo, Y., **Teas, E.**, Crist, N. (Under review). Reasons for not posting alcohol-related content
-to social media: Measurement development and initial validation. *Addictive Behaviors*.](https://www.linkGoesHere.com)
+[![Ward, R.M., Steers, M-L.N., Guo, Y., Teas, E., Crist, N. (Under review). Reasons for not posting alcohol-related content
+to social media: Measurement development and initial validation. Addictive Behaviors.](https://www.palmpressinc.com/wp-content/uploads/cc_resize/9604-500x0.jpg)](https://www.google.com)
