@@ -15,7 +15,6 @@ PUBLICATIONS AND IN PRESS PAPERS
     attrlink="url of the publication"
     link="also url of the publication"
     src="url of the picture" 
-Do not change these:
     target="_blank" 
     rel="noopener noreferrer"
     class="publication"
