@@ -8,17 +8,30 @@ Most publications are hyperlinked to an open access version of the article or wi
 PUBLICATIONS AND IN PRESS PAPERS
 *First and second authors contributed equally.
 
+<!-- Don't change this one, it's just an example:
+
 {{< figure 
-    src="https://www.palmpressinc.com/wp-content/uploads/cc_resize/9604-500x0.jpg" 
-    title="Here is the title" 
-    link="https://www.google.com" 
+    attr="Citation here"
+    attrlink="url of the publication"
+    link="also url of the publication"
+    src="url of the picture" 
+
+Don't change these:
     target="_blank" 
     rel="noopener noreferrer"
-    class="publication-img"
-    caption="Here is the caption"
-    attr="Here is the attribution"
+    class="publication"
+>}}
+ 
+-->
+
+
+{{< figure 
+    attr="Ward, R.M., Steers, M-L.N., Guo, Y., Teas, E., Crist, N. (Under review). Reasons for not posting alcohol-related content to social media: Measurement development and initial validation. Addictive Behaviors."
     attrlink="https://www.bing.com"
+    link="https://www.bing.com"
+    src="https://i1.wp.com/www.getclean.io/wp-content/uploads/2019/02/bh.jpg?w=700&ssl=1" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    class="publication"
 >}}
 
-
-<!-- Ward, R.M., Steers, M-L.N., Guo, Y., Teas, E., Crist, N. (Under review). Reasons for not posting alcohol-related content to social media: Measurement development and initial validation. Addictive Behaviors. -->
