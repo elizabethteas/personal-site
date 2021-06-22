@@ -1,5 +1,5 @@
 {{ define "main" }}
 
-<iframe class="fill-doc" src="{{ .Site.BaseURL }}/docs/{{ .Page.Params.doc }}"></iframe>
+<iframe title="{{ .Page.Params.doc }}" class="fill-doc" src="{{ .Site.BaseURL }}/docs/{{ .Page.Params.doc }}"></iframe>
 
 {{ end }}
