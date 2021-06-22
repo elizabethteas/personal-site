@@ -26,6 +26,7 @@ url = "mailto:???@example.com"
 # ------------------------------------------------------------------------
 keywords = ""
 favicon = "favicons/"
+enableMediumZoom = false
 
 # example ["css/custom.css"]
 customCss = []
