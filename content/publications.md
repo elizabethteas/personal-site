@@ -8,11 +8,17 @@ Most publications are hyperlinked to an open access version of the article or wi
 PUBLICATIONS AND IN PRESS PAPERS
 *First and second authors contributed equally.
 
-![Example image 1](/static/images/profile-cow.png)
+{{< figure 
+    src="https://www.palmpressinc.com/wp-content/uploads/cc_resize/9604-500x0.jpg" 
+    title="Here is the title" 
+    link="https://www.google.com" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    class="publication-img"
+    caption="Here is the caption"
+    attr="Here is the attribution"
+    attrlink="https://www.bing.com"
+>}}
 
-![Example image 2](https://www.palmpressinc.com/wp-content/uploads/cc_resize/9604-500x0.jpg)
 
-{{< figure src="https://www.palmpressinc.com/wp-content/uploads/cc_resize/9604-500x0.jpg" title="Ward, R.M., Steers, M-L.N., Guo, Y., Teas, E., Crist, N. (Under review). Reasons for not posting alcohol-related content to social media: Measurement development and initial validation. Addictive Behaviors." link="https://www.google.com" >}}
-
-[![Ward, R.M., Steers, M-L.N., Guo, Y., Teas, E., Crist, N. (Under review). Reasons for not posting alcohol-related content
-to social media: Measurement development and initial validation. Addictive Behaviors.](https://www.palmpressinc.com/wp-content/uploads/cc_resize/9604-500x0.jpg)](https://www.google.com)
+<!-- Ward, R.M., Steers, M-L.N., Guo, Y., Teas, E., Crist, N. (Under review). Reasons for not posting alcohol-related content to social media: Measurement development and initial validation. Addictive Behaviors. -->
