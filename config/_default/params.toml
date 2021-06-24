@@ -1,8 +1,8 @@
 # Edit these
 # -----------------------------------------------------------------------
 profilePicture = "images/profile-mustache.jpg"
-title = "I'm Elizabeth Teas"
-description = "I like to run"
+title = "Elizabeth Teas, MS"
+description = 
 author = "Elizabeth Teas"
 #copyright = "2021"
 
@@ -19,7 +19,7 @@ url = "https://www.instagram.com/esohns/"
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:???@example.com"
+url = "mailto:eteas@purdue.edu"
 
 
 # Ignore these
