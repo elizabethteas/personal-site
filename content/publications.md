@@ -3,7 +3,7 @@ title: "Publications"
 date: 2021-05-12
 ---
 
-*Most publications are hyperlinked to an open access version of the article or will be updated with a link shortly. If you would like access to an article that is not linked, please email me. Last name changed from **Sohns** to **Teas** in 2019.*
+*Most publications are hyperlinked to the article or will be updated with a link shortly. If you would like access to an article, please email me. Last name changed from **Sohns** to **Teas** in 2019.*
 
 Steers, M-L.N., Ward, R.M., Neighbors, C., Tanygin, A.B., Guo, Y., & **Teas, E.** (2021). Double vision on social media: How self-generated alcohol-related posts moderate the relationship between viewing others' posts and drinking. Journal of Health Communication, 26(1), 12-18. doi:10.1080/10810730.2021.1878311 [(link)](https://pubmed.ncbi.nlm.nih.gov/33587022/)
 
