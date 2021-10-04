@@ -97,7 +97,7 @@
     {{- end -}}
 
     {{- if ne $js "" -}}
-    {{- $secureJS := $js |  resources.Minify | resources.Fingerprint -}}
+    {{- $secureJS := $js | resources.Fingerprint -}}
     <script type="text/javascript"
             src="{{ $secureJS.RelPermalink }}"
             integrity="{{ $secureJS.Data.Integrity }}"
