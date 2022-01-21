@@ -1,7 +1,7 @@
 ---
 title: "CV"
-date: 2021-08-06
+date: 2022-01-21
 
 type: "doc"
-doc: "Teas CV - Jan 22.pdf"
+doc: "Teas CV - Jan 2022.pdf"
 ---
