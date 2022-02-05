@@ -5,6 +5,8 @@ date: 2021-05-12
 
 *Most publications are hyperlinked to the article or will be updated with a link shortly. If you would like access to an article, please email me. Last name changed from **Sohns** to **Teas** in 2019.*
 
+**Teas, E.**, Friedman, E., & Amireault, S. (2022). Purpose in life and personal growth: The unique and joint contribution of physical activity and basic psychological needs. Applied Psychology: Health and Well-Being, 1– 24. doi:10.1111/aphw.12347. [(link)](https://doi.org/10.1111/aphw.12347)
+
 **Teas E**, Robertson O, Marceau K, Friedman EM. Not seeing double: Discordance in disease, function, and their longitudinal associations in monozygotic twins. Psychosom Med. 2021;83(7):724-732. doi: 10.1097/PSY.0000000000000972 [(link)](https://journals.lww.com/psychosomaticmedicine/Abstract/9000/Not_seeing_double__Discordance_in_disease,.98410.aspx)
 
 Steers, M-L.N., Ward, R.M., Neighbors, C., Tanygin, A.B., Guo, Y., & **Teas, E.** (2021). Double vision on social media: How self-generated alcohol-related posts moderate the relationship between viewing others' posts and drinking. Journal of Health Communication, 26(1), 12-18. doi:10.1080/10810730.2021.1878311 [(link)](https://pubmed.ncbi.nlm.nih.gov/33587022/)
