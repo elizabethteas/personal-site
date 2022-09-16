@@ -11,5 +11,8 @@ Open and inclusive scholarship is a priority of mine. In the spirit of reproucib
 
 Creating weighted multimorbidity index based on Wei et al., 2016 - [Stata do file](https://drive.google.com/file/d/1ZHvs3t9W4zM92Rphg9nl5ExaZ0XIiQwA/view?usp=sharing)
 
+## OSF Resources ##
+
+[Preregistration](https://osf.io/qx4e6/) of "Social connectedness across the life course and later-life functional capacity: Mechanisms and divergent associations".
 
 #### More open science and code coming soon!
