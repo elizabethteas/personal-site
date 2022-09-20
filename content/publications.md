@@ -3,6 +3,8 @@ title: "Publications"
 date: 2021-05-12
 ---
 
+## Academic Publications
+
 *Most publications are hyperlinked to the article or will be updated with a link shortly. If you would like access to an article, please email me. Last name changed from **Sohns** to **Teas** in 2019.*
 
 **Teas, E.**, Kimiecik, J., Ward, R.M., Timmerman, K. (2022). Intuitive eating and biomarkers related to cardiovascular disease in older adults. Journal of Nutrition Education and Behavior, 54 (5), 412-421. doi:10.1016/j.jneb.2022.01.010 [(link)](https://pubmed.ncbi.nlm.nih.gov/35534099/)
@@ -20,6 +22,10 @@ Kimiecik, J. & **Teas, E.** (2020). Express your self: Exploring the nature of t
 Kimiecik, J., Ward, R.M., **Sohns, E.** (2019). Back to basics: Tracing health and risk behaviors back to well-being. American Journal of Health Studies, 34(1), 11-22. [(link)](https://amjhealthstudies.com/index.php/ajhs/article/view/28)
 
 Newman, T. J., Okamoto, K., Kimiecik, C., **Sohns, E.**, Burns, M., & Magier, E. (2019). The role of social workers in sport: Shared values, interprofessional collaborations, and unique contributions. Journal of Sport Psychology in Action, 1-14. doi:10.1080/21520704.2019.1642270 [(link)](https://www.tandfonline.com/doi/abs/10.1080/21520704.2019.1642270?journalCode=uspa20#:~:text=Through%20interprofessional%20collaborations%2C%20social%20workers,and%20uphold%20culturally%20competent%20practices)
+
+## Non-Academic Publications/Writing
+
+[Let's Get Physical](https://www.purdue.edu/stepstoleaps/explore/well-being-tips/2022_0905.php), Sep. 5, 2022. 
 
 
 
