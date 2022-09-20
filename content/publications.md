@@ -25,7 +25,7 @@ Newman, T. J., Okamoto, K., Kimiecik, C., **Sohns, E.**, Burns, M., & Magier, E.
 
 ## Non-Academic Publications/Writing
 
-[Let's Get Physical](https://purdue.edu/stepstoleaps/explore/well-being-tips/2022_0905.php) - Sep. 5, 2022. 
+["Let's Get Physical"](https://purdue.edu/stepstoleaps/explore/well-being-tips/2022_0905.php) - Sep. 5, 2022. 
 
 
 
