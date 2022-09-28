@@ -954,7 +954,9 @@ print {
     
 
     .footer {
-        display: none;
+	color: white;
+	position: fixed;
+	bottom: 0px;
     }
 
     .share {
