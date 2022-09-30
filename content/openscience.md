@@ -13,6 +13,6 @@ Creating weighted multimorbidity index based on Wei et al., 2016 - [Stata do fil
 
 ## OSF Resources ##
 
-[Preregistration](https://osf.io/qx4e6/) of "Social connectedness across the life course and later-life functional capacity: Mechanisms and divergent associations". https://doi.org/10.17605/OSF.IO/K6Y83
+[Preregistration](https://osf.io/qx4e6/) of "Social connectedness across the life course and later-life functional capacity: Mechanisms and divergent associations". doi:10.17605/OSF.IO/K6Y83 
 
 #### More open science and code coming soon!
