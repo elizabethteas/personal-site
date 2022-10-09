@@ -7,6 +7,8 @@ date: 2021-05-12
 
 *Most publications are hyperlinked to the article or will be updated with a link shortly. If you would like access to an article, please email me. Last name changed from **Sohns** to **Teas** in 2019.*
 
+Ward, R. M., Steers, M-L. N., Guo, Y., **Teas, E.**, & Crist, N. (2022). Posting alcohol-related content on social media: Comparing posters and non-posters. Alcohol, 104, 23-30. doi:10.1016/j.alcohol.2022.08.001 [(link)](https://www.sciencedirect.com/science/article/pii/S0741832922000702?dgcid=coauthor)
+
 **Teas, E.**, Kimiecik, J., Ward, R.M., Timmerman, K. (2022). Intuitive eating and biomarkers related to cardiovascular disease in older adults. Journal of Nutrition Education and Behavior, 54 (5), 412-421. doi:10.1016/j.jneb.2022.01.010 [(link)](https://pubmed.ncbi.nlm.nih.gov/35534099/)
 
 **Teas, E.**, Friedman, E., & Amireault, S. (2022). Purpose in life and personal growth: The unique and joint contribution of physical activity and basic psychological needs. Applied Psychology: Health and Well-Being, 1– 24. doi:10.1111/aphw.12347. [(link)](https://doi.org/10.1111/aphw.12347)
