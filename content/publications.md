@@ -7,6 +7,12 @@ date: 2021-05-12
 
 *Most publications are hyperlinked to the article or will be updated with a link shortly. If you would like access to an article, please email me. Last name changed from **Sohns** to **Teas** in 2019.*
 
+Friedman, E., Franks, M., **Teas, E.**, Thomas, P. (2023). Social connectedness, functional capacity, and longevity: A focus on positive relations with others. Social Science & Medicine, 340 (2024). doi:10.1016/j.socscimed.2023.116419. [(link)](https://www.sciencedirect.com/science/article/pii/S0277953623007761?via%3Dihub)
+
+Friedman, E. & **Teas, E.** (2023). Self-rated health and mortality: Moderation by purpose in life. International Journal of Environmental Research and Public Health, 20 (12), 6171. doi:10.3390/ijerph20126171 [(link)](https://www.mdpi.com/1660-4601/20/12/6171)
+
+Richards, E., Christ, S., Rietdyk, S., **Teas, E.**, Franks, M. (2023). Association of physical activity and gait speed: Does context matter? American Journal of Lifestyle Medicine. doi:10.1177/15598276231157311 [(link)](https://journals.sagepub.com/doi/10.1177/15598276231157311?icid=int.sj-abstract.citing-articles.1)
+
 **Teas, E.**, Marceau, K., & Friedman, E. (2023). Life-course social connectedness: Comparing data-driven and theoretical classifications as predictors of functional limitations in adulthood. Advances in Life Course Research, 55, 1-14. doi:10.1016/j.alcr.2023.100529 [(link)](https://www.sciencedirect.com/science/article/pii/S1040260823000047)
 
 Ward, R. M., Steers, M-L. N., Guo, Y., **Teas, E.**, & Crist, N. (2022). Posting alcohol-related content on social media: Comparing posters and non-posters. Alcohol, 104, 23-30. doi:10.1016/j.alcohol.2022.08.001 [(link)](https://www.sciencedirect.com/science/article/pii/S0741832922000702?dgcid=coauthor)
