@@ -7,11 +7,6 @@ author = "Elizabeth Teas"
 copyright = "2021"
 
 [[socialIcons]]
-icon = "fab fa-twitter"
-title = "Twitter"
-url = "https://www.twitter.com/elizabeth_teas"
-
-[[socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/esohns"
