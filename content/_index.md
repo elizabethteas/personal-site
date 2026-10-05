@@ -5,7 +5,7 @@ date = "2026-05-12"
 
 # Welcome!
 
-My name is Elizabeth Teas, and I have extensive experience in quantitative data analysis, program evaluation, and project management. I am currently a Senior Research Scientist at Far Harbor in Austin, TX, where I study the impact of education interventions and policies. I completed a dual-title PhD in Human Development and Family Studies and [Gerontology](https://www.purdue.edu/aging/) at Purdue University in 2023. I am passionate about improving the health, education, and well-being of individuals and families through interdisciplinary research. 
+My name is Elizabeth Teas, and I have extensive experience in quantitative data analysis, program evaluation, and project management. I am currently the Director of Research & Analysis at Far Harbor in Austin, TX, where I lead our education portfolio focused on the impact of education interventions and policies. I completed a dual-title PhD in Human Development and Family Studies and [Gerontology](https://www.purdue.edu/aging/) at Purdue University in 2023. I am passionate about improving the health, education, and well-being of individuals and families through interdisciplinary research. 
 
 My graduate research focused on identifying biopsychosocial processes that impact health and understanding how these processes develop over the life course. I was funded by an NIH NRSA F31 fellowship from the National Institute on Aging (1F31AG072824-01), and I worked under the advisement of [Dr. Elliot Friedman](https://hhs.purdue.edu/directory/elliot-friedman/). 
 
