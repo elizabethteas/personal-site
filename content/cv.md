@@ -1,7 +1,7 @@
 ---
 title: "CV"
-date: 2022-06-14
+date: 2026-10-06
 
 type: "doc"
-doc: "Teas Nov CV2.pdf"
+doc: "TeasResume_26.docx.pdf"
 ---
