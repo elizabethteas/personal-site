@@ -1,12 +1,12 @@
 ---
-title: "Programming & Code"
+title: "Programming"
 date: 2026-10-11
 ---
 
 I am a strong advocate for open and inclusive scholarship. Throughout my work, I've frequently found myself rewriting complex Stata code from scratch, an experience that inspired two key initiatives: publishing custom Stata programs and sharing open code for public datasets to save others time. Below, you’ll also find archived OSF project resources in the spirit of full transparency and reproducibility.
 
 
-## STATA PROGRAMMING ##
+## STATA PACKAGES ##
 
 All programs below can be installed from within Stata by typing "ssc install [name of program]". The modules are made available under terms of the MIT license (https://opensource.org/licenses/MIT).
 
@@ -22,14 +22,14 @@ scaffold a data-analysis project folder with documentation and a numbered do-fil
 Statistical Software Components, Boston College Department of Economics. https://ideas.repec.org/c/boc/bocode/s459832.html
 
 
-## CODE ##
+## CODE & DATASETS ##
 
 #### MIDUS data cleaning: download data [here](https://midus.colectica.org/)
 
 Creating weighted multimorbidity index based on Wei et al., 2016 - [Stata do file](https://drive.google.com/file/d/1ZHvs3t9W4zM92Rphg9nl5ExaZ0XIiQwA/view?usp=sharing)
 
 
-## OSF Resources ##
+## OSF RESOURCES ##
 
 [Preregistration](https://osf.io/qx4e6/) of "Social connectedness across the life course and later-life functional capacity: Mechanisms and divergent associations". doi:10.17605/OSF.IO/K6Y83 
 
