@@ -7,6 +7,8 @@ date: 2021-05-12
 
 *Most publications are hyperlinked to the article or will be updated with a link shortly. If you would like access to an article, please email me. Last name changed from **Sohns** to **Teas** in 2019.*
 
+Thomas, P. A., **Teas, E.**, Friedman, E., Barnes, L. L., Sauerteig-Rolston, M. R., & Ferraro, K. F. (2026). Early-Life Parental Affection, Social Relationships in Adulthood, and Later-Life Cognitive Function. Journal of aging and health, 38(1-2), 19–30. [(link](https://doi.org/10.1177/08982643241303589)
+
 Friedman, E., Franks, M., **Teas, E.**, Thomas, P. (2023). Social connectedness, functional capacity, and longevity: A focus on positive relations with others. Social Science & Medicine, 340 (2024). doi:10.1016/j.socscimed.2023.116419. [(link)](https://www.sciencedirect.com/science/article/pii/S0277953623007761?via%3Dihub)
 
 Friedman, E. & **Teas, E.** (2023). Self-rated health and mortality: Moderation by purpose in life. International Journal of Environmental Research and Public Health, 20 (12), 6171. doi:10.3390/ijerph20126171 [(link)](https://www.mdpi.com/1660-4601/20/12/6171)
