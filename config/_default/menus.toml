@@ -5,10 +5,10 @@
   url = "/"
 
   [[main]]
-  name = "Open Science"
+  name = "Code"
   weight = 200
-  identifier = "open science"
-  url = "/openscience/"
+  identifier = "code"
+  url = "/code/"
 
   [[main]]
   name = "Publications"
