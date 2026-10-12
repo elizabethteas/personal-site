@@ -9,7 +9,7 @@ I'm Elizabeth Teas, an applied researcher with expertise in program evaluation, 
 
 I completed my dual-title PhD in Human Development & Family Studies and Gerontology at Purdue University, where my research on biopsychosocial health processes was supported by an NIH NRSA F31 Fellowship from the National Institute on Aging under [Dr. Elliot Friedman](https://hhs.purdue.edu/directory/elliot-friedman/). 
 
-If I’m not deep in Stata code, I’m usually on the sand volleyball court, lost in a book, or fueling up at a local coffee shop. Take a look around, and feel free to connect!
+If I’m not deep in Stata code, I’m usually playing sand volleyball, buried in a book, or fueling up at a local coffee shop. Take a look around, and feel free to connect!
 
 ## Education
 * PhD (2023) Human Development & Family Science / Gerontology, Purdue University, West Lafayette, IN
