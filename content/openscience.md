@@ -1,5 +1,5 @@
 ---
-title: "Code & Programming"
+title: "Programming & Code"
 date: 2026-10-11
 ---
 
